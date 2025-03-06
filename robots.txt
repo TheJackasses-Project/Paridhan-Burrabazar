@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.paridhan1985.com/sitemap.xml
