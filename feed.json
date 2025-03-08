@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://www.paridhan1985.com/store-launch.html",
-            "url": "https://www.paridhan1985.com/store-launch.html",
+            "id": "https://www.paridhan1985.com/store-3-launch.html",
+            "url": "https://www.paridhan1985.com/store-3-launch.html",
             "title": "STORE LAUNCH",
             "content_html": "<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://www.paridhan1985.com/media/posts/1/gallery/CS31022-15.jpg\" data-size=\"4200x6300\"><img loading=\"lazy\" src=\"https://www.paridhan1985.com/media/posts/1/gallery/CS31022-15-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1152\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.paridhan1985.com/media/posts/1/gallery/CS31024-15.jpg\" data-size=\"4200x6300\"><img loading=\"lazy\" src=\"https://www.paridhan1985.com/media/posts/1/gallery/CS31024-15-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1152\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.paridhan1985.com/media/posts/1/gallery/CS31039-35.jpg\" data-size=\"4200x6300\"><img loading=\"lazy\" src=\"https://www.paridhan1985.com/media/posts/1/gallery/CS31039-35-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1152\"></a></figure>\n</div></div>",
             "image": "https://www.paridhan1985.com/media/posts/1/01-6x4ft..jpg",
@@ -23,7 +23,7 @@
                    "PBB"
             ],
             "date_published": "2025-03-06T22:27:04+05:30",
-            "date_modified": "2025-03-08T13:44:32+05:30"
+            "date_modified": "2025-03-08T13:50:55+05:30"
         }
     ]
 }
